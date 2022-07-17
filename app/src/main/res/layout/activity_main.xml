@@ -24,6 +24,7 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
+        android:textColor="#FF03DAC5"
         android:layout_height="wrap_content"
         android:text="AXAXAXAXAXAXAXA"
         app:layout_constraintBottom_toBottomOf="parent"
